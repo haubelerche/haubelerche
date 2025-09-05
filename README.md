@@ -4,6 +4,6 @@
   </a>
   <br/>
   <marquee behavior="scroll" direction="right" scrollamount="6">
-    <img src="pac.gif" width="600" height="200" alt="pac running"/>
+    <img src="pac.gif" width="500" height="200" alt="pac running"/>
   </marquee>
 </div>

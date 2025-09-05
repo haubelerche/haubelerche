@@ -3,5 +3,5 @@
   
   <br/>
   
-  <img src="nyat.gif" width="600" height="400"/>
+  <img src="nyat.gif" width="800" height="400"/>
 </div>

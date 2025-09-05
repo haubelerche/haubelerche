@@ -1,7 +1,106 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=&color=ABF711&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=300&lines=Nice+to+meet+ya%2C+I'm+Hau!;My+passions+are+AI%2FML+and+Security.;I%E2%80%99m+working+to+build+a+career+at+the+intersection+of+these+fields.++;Right+now%2C+my+happiness+lies+in+committing+;to+what+I%E2%80%99m+truly+passionate+about+!" alt="Typing SVG" /></a>
-  
-  <br/>
-  
-  <img src="dino.gif" width="0" height="300"/>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hau — Personal Page</title>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --fg: #eaf2ff;
+      --muted: #a8b3cf;
+      --accent: #6ea8ff;
+    }
+    html, body { height: 100%; }
+    body {
+      margin: 0; font: 17px/1.6 ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
+      color: var(--fg);
+      background: radial-gradient(80rem 60rem at 10% -10%, #20306055, transparent),
+                  radial-gradient(80rem 60rem at 110% 10%, #2b3b7a44, transparent),
+                  var(--bg);
+      display: grid; place-items: center;
+      overflow: hidden;
+    }
+    .card {
+      position: relative;
+      width: min(640px, 92vw);
+      padding: 32px 28px 28px;
+      border-radius: 22px;
+      background: rgba(16, 22, 44, 0.75);
+      backdrop-filter: blur(8px);
+      box-shadow: 0 10px 28px rgba(0,0,0,.35), inset 0 0 0 1px rgba(255,255,255,.05);
+      text-align: center;
+      z-index: 2;
+    }
+    h1 { font-size: clamp(28px, 6vw, 40px); margin: 0 0 10px; }
+    p { color: var(--muted); margin: 12px 0 20px; }
+    .contact { display: flex; justify-content: center; gap: 18px; margin-top: 12px; }
+    .contact a { color: var(--accent); text-decoration: none; border-bottom: 1px dashed transparent; transition: .2s; }
+    .contact a:hover { border-color: var(--accent); }
+
+    /* Floating icon */
+    .floaty {
+      position: absolute; right: 20px; top: 20px;
+      width: 46px; height: 46px; border-radius: 50%;
+      display: grid; place-items: center;
+      background: radial-gradient(circle at 30% 30%, #ffd2e1, #ff9dd1);
+      box-shadow: 0 10px 20px rgba(255, 157, 209, .25);
+      animation: float 3.6s ease-in-out infinite;
+      z-index: 3;
+    }
+    .floaty span { font-size: 24px; }
+    @keyframes float { 0% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(-10px) rotate(3deg);} 100% { transform: translateY(0px) rotate(0deg);} }
+
+    /* Background nyan cat gif */
+    .nyan-bg {
+      position: fixed;
+      bottom: 0;
+      left: -200px;
+      width: 320px;
+      height: auto;
+      animation: nyan-move 20s linear infinite;
+      z-index: 1;
+      opacity: 0.85;
+      pointer-events: none;
+    }
+    @keyframes nyan-move {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(120vw); }
+    }
+      /* Nyan cat animation */
+    .nyan {
+      position: fixed; left: -20%; bottom: 16vh; z-index: 0; opacity: .9;
+      width: 160px; max-width: 30vw; pointer-events: none;
+      animation: nyanfly 12s linear infinite;
+      filter: drop-shadow(0 6px 8px rgba(0,0,0,.35));
+    }
+    @keyframes nyanfly { from { transform: translateX(0); } to { transform: translateX(160vw); } }
+    @media (prefers-reduced-motion: reduce) { .nyan { display: none; animation: none; } }
+  </style>
+</head>
+<body>
+  <img src="4cd9ce636c6d5f23688f0fda99cd81cf.gif" alt="nyan cat" class="nyan-bg" />
+
+  <main class="card" role="main">
+    <div class="floaty" title="hi~"><span>✨</span></div>
+
+    <h1>Hello, I'm Hau 👋</h1>
+    <p>I am passionate about <strong>Data Science</strong>, <strong>AI</strong>, and <strong>Cybersecurity</strong>. 
+    Currently, I am on a journey of learning and growing step by step in these fields. 
+    This page is a small space to share my curiosity, dedication, and career aspirations.</p>
+
+    <section class="contact">
+      <a href="https://github.com/haubelerche" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://www.linkedin.com/in/thanh-hau-luong-6b0023254/" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="mailto:luonghau2909@gmail.com">Email</a>
+    </section>
+      <section class="contact">
+      <a href="https://github.com/haubelerche" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://www.linkedin.com/in/thanh-hau-luong-6b0023254/" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="mailto:luonghau2909@gmail.com">Email</a>
+    </section>
+  </main>
+  <!-- Nyan cat GIF: place the file in your repo (e.g., /assets/nyan.gif) and update the src path -->
+  <img class="nyan" src="assets/nyan.gif" alt="nyan cat" aria-hidden="true" />
+</body>
+</html>

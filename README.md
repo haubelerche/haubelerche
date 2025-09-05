@@ -4,6 +4,6 @@
   </a>
   <br/>
   <marquee behavior="scroll" direction="right" scrollamount="6">
-    <img src="dino.gif" width="300" height="300" alt="dino running"/>
+    <img src="dino.gif" width="200" height="200" alt="dino running"/>
   </marquee>
 </div>

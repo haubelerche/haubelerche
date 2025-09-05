@@ -3,6 +3,5 @@
   
   <br/>
   
-  <img src="dino.gif" width="0" height="30"/>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100"/>
+  <img src="nyat.gif" width="100" height="100"/>
 </div>

@@ -22,6 +22,20 @@ I aim to become an engineer who does not only build models, but also designs com
 
 ---
 
+## GitHub Statistics
+
+<div align="center">
+
+![Hau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haubelerche\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haubelerche\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=haubelerche\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
 ## Tech Stack
 
 ### Programming & Backend
@@ -90,21 +104,6 @@ I aim to become an engineer who does not only build models, but also designs com
 ![Grafana](https://img.shields.io/badge/Grafana-111827?style=for-the-badge\&logo=grafana\&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-111827?style=for-the-badge\&logo=prometheus\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=white)
-
----
-
-
-## GitHub Statistics
-
-<div align="center">
-
-![Hau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haubelerche\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haubelerche\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=haubelerche\&theme=tokyonight\&hide_border=true)
-
-</div>
 
 ---
 

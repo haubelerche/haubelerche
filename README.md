@@ -131,7 +131,9 @@ AI Evaluation
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Link_Here-111827?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/thanh-hau-luong-6b0023254)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thanh--hau--luong--6b0023254-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh-hau-luong-6b0023254)
+
+
 
 </div>
 

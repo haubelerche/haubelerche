@@ -75,10 +75,11 @@ I aim to become an engineer who does not only build models, but also designs com
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-111827?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-111827?style=for-the-badge\&logo=neo4j\&logoColor=white)
+![Knowledge Graph](https://img.shields.io/badge/Knowledge_Graph-111827?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge\&logo=redis\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-111827?style=for-the-badge)
-![Knowledge Graph](https://img.shields.io/badge/Knowledge_Graph-111827?style=for-the-badge)
 ![Mem0](https://img.shields.io/badge/Mem0-111827?style=for-the-badge)
 
 ### Deployment, DevOps & Monitoring

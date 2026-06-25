@@ -131,17 +131,8 @@ AI Evaluation
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-haubelerche-111827?style=for-the-badge\&logo=github)](https://github.com/haubelerche)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Link_Here-111827?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Add_Email_Here-111827?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Link_Here-111827?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/thanh-hau-luong-6b0023254)
 
 </div>
 
----
-
-<div align="center">
-
-### Always learning. Always building. Always improving AI systems.
-
-</div>
 
